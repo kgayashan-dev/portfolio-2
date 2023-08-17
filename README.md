@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-#firstr clone the package
+## First clone the project
 
-## install node package dependencies using
+## Install node package dependencies using
 
 
 ```bash
